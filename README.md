@@ -5,27 +5,27 @@ This project applies Machine Learning and Data Visualization techniques to segme
 
 **📁 Project Structure**
 
-Exploratory Data Analysis (EDA):Understand distribution of features (Age, Income, Spending Score) via histograms, violin plots, box plots, etc.
+i) Exploratory Data Analysis (EDA):Understand distribution of features (Age, Income, Spending Score) via histograms, violin plots, box plots, etc.
 
-Customer Segmentation
+ii) Customer Segmentation
 
-K-Means Clustering
+a) K-Means Clustering
 
-Hierarchical Clustering
+b) Hierarchical Clustering
 
-PCA for dimensionality reduction & visualization
+c) PCA for dimensionality reduction & visualization
 
-Supervised Learning
+iii) Supervised Learning
 
-Decision Tree Classifier
+a) Decision Tree Classifier
 
-Random Forest Classifier
+b) Random Forest Classifier
 
-Gender-based Analysis
+iv) Gender-based Analysis
 
-Comparison of Age, Income, and Spending Score between males and females
+a) Comparison of Age, Income, and Spending Score between males and females
 
-Visualizations (boxplots, violin plots, etc.)
+b) Visualizations (boxplots, violin plots, etc.)
 
 **📊 Technologies Used**
 
