@@ -67,8 +67,8 @@ iv) Decision Trees & Random Forests: To classify customers into segments
 
 **📈 Results**
 
-Identified clear customer segments based on spending patterns and income.
+i) Identified clear customer segments based on spending patterns and income.
 
-Visualized differences in spending behavior across gender and age groups.
+ii) Visualized differences in spending behavior across gender and age groups.
 
-Achieved high accuracy in classification tasks using Random Forests.
+iii) Achieved high accuracy in classification tasks using Random Forests.
