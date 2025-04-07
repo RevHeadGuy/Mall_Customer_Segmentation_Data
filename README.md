@@ -55,7 +55,7 @@ iv) Correlation Matrix
 
 v) Cluster Visualizations (2D & 3D with PCA)
 
-🧠 Algorithms Used
+**🧠 Algorithms Used**
 K-Means Clustering: To segment customers based on features
 
 Hierarchical Clustering: To visualize tree-based grouping
