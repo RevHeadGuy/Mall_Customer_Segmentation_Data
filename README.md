@@ -65,7 +65,8 @@ iii) PCA: For visualizing customer segments in lower dimensions
 
 iv) Decision Trees & Random Forests: To classify customers into segments
 
-📈 Results
+**📈 Results**
+
 Identified clear customer segments based on spending patterns and income.
 
 Visualized differences in spending behavior across gender and age groups.
