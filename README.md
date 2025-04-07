@@ -56,13 +56,14 @@ iv) Correlation Matrix
 v) Cluster Visualizations (2D & 3D with PCA)
 
 **🧠 Algorithms Used**
-K-Means Clustering: To segment customers based on features
 
-Hierarchical Clustering: To visualize tree-based grouping
+i) K-Means Clustering: To segment customers based on features
 
-PCA: For visualizing customer segments in lower dimensions
+ii) Hierarchical Clustering: To visualize tree-based grouping
 
-Decision Trees & Random Forests: To classify customers into segments
+iii) PCA: For visualizing customer segments in lower dimensions
+
+iv) Decision Trees & Random Forests: To classify customers into segments
 
 📈 Results
 Identified clear customer segments based on spending patterns and income.
