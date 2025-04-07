@@ -45,15 +45,15 @@ vii) Plotly (optional for interactive plots)
 
 **🔍 Key Visualizations**
 
-Gender Distribution (Pie & Bar Chart)
+i) Gender Distribution (Pie & Bar Chart)
 
-Age, Income, and Spending Score Distributions (Histogram, KDE)
+ii) Age, Income, and Spending Score Distributions (Histogram, KDE)
 
-Violin Plots (Age, Income, Spending Score by Gender & Cluster)
+iii) Violin Plots (Age, Income, Spending Score by Gender & Cluster)
 
-Correlation Matrix
+iv) Correlation Matrix
 
-Cluster Visualizations (2D & 3D with PCA)
+v) Cluster Visualizations (2D & 3D with PCA)
 
 🧠 Algorithms Used
 K-Means Clustering: To segment customers based on features
