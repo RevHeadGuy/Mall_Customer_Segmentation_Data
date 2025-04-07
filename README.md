@@ -29,21 +29,22 @@ b) Visualizations (boxplots, violin plots, etc.)
 
 **📊 Technologies Used**
 
-Python
+i) Python
 
-Pandas
+ii) Pandas
 
-NumPy
+iii) NumPy
 
-Matplotlib, Seaborn
+iv) Matplotlib, Seaborn
 
-Scikit-learn
+v) Scikit-learn
 
-Scipy
+vi) Scipy
 
-Plotly (optional for interactive plots)
+vii) Plotly (optional for interactive plots)
 
 **🔍 Key Visualizations**
+
 Gender Distribution (Pie & Bar Chart)
 
 Age, Income, and Spending Score Distributions (Histogram, KDE)
